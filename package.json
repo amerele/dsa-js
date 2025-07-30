@@ -6,7 +6,8 @@
   "author": "Bruno Gomes <gomess.hbruno@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "sort": "node src/sorting/main.js"
+    "sort": "node src/sorting/main.js",
+    "arr": "node src/array-manipulation/main.js"
   },
   "dependencies": {
     "node": "^20.19.4"

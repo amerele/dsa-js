@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/amerele/ts-leetcodes.git",
+  "author": "Bruno Gomes <gomess.hbruno@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node": "^20.19.4"
+  }
+}
